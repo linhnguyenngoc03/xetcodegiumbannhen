@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Charm&family=Camel&family=Fraunces:ital@1&family=Montserrat&family=Roboto&family=Roboto+Serif&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.banner-paging {
+  opacity: 0;
+  transition: 200ms;
+  align-items: flex-end;
+}
+.banner-paging:hover {
+  opacity: 1;
+}

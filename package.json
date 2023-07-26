@@ -1,0 +1,49 @@
+{
+  "name": "swp391-fe",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/lab": "^5.0.0-alpha.134",
+    "@mui/material": "^5.13.6",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@types/node": "20.2.5",
+    "@types/react": "18.2.7",
+    "@types/react-dom": "18.2.4",
+    "crypto-js": "^4.1.1",
+    "dateformat": "^5.0.3",
+    "eslint": "8.41.0",
+    "eslint-config-next": "13.4.4",
+    "firebase": "^9.22.1",
+    "formidable": "^2.1.1",
+    "moment": "^2.29.4",
+    "mv": "^2.1.1",
+    "next": "13.4.4",
+    "next-seo": "^6.0.0",
+    "public-ip": "^6.0.1",
+    "query-string": "^8.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.44.2",
+    "react-redux": "^8.0.7",
+    "sass": "^1.62.1",
+    "sha256": "^0.2.0",
+    "swr": "^2.2.0",
+    "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.1.1",
+    "@types/dateformat": "^5.0.0",
+    "@types/formidable": "^2.0.6",
+    "@types/multer": "^1.4.7",
+    "@types/sha256": "^0.2.0"
+  }
+}
